@@ -1,6 +1,6 @@
 hello word
 hello sarifi
 
-say nothing
+say nothing (clean the water)
 
 hello (limit + timestamp)
